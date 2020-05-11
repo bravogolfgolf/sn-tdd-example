@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_402400_tdd_data_plan_data_lookup">
+    <x_402400_tdd_data_plan_data_lookup action="DELETE">
+        <active>true</active>
+        <description/>
+        <device_type/>
+        <order>100</order>
+        <plan_type/>
+        <price>0</price>
+        <provider/>
+        <sys_class_name>x_402400_tdd_data_plan_data_lookup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 02:07:05</sys_created_on>
+        <sys_id>bc8d9d731ba810104390877ddc4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope>
+        <sys_update_name>x_402400_tdd_data_plan_data_lookup_bc8d9d731ba810104390877ddc4bcb91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 02:07:05</sys_updated_on>
+    </x_402400_tdd_data_plan_data_lookup>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</application>
+        <file_path/>
+        <instance_id>c5c48e23db72f34452cec59705961957</instance_id>
+        <instance_name>dev89492</instance_name>
+        <name>x_402400_tdd_data_plan_data_lookup_bc8d9d731ba810104390877ddc4bcb91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_402400_tdd_data_plan_data_lookup"><x_402400_tdd_data_plan_data_lookup action="INSERT_OR_UPDATE"><active>true</active><description/><device_type/><order>100</order><plan_type/><price>0</price><provider/><sys_class_name>x_402400_tdd_data_plan_data_lookup</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-10 02:07:05</sys_created_on><sys_id>bc8d9d731ba810104390877ddc4bcb91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package><sys_policy/><sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope><sys_update_name>x_402400_tdd_data_plan_data_lookup_bc8d9d731ba810104390877ddc4bcb91</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-10 02:07:05</sys_updated_on></x_402400_tdd_data_plan_data_lookup></record_update>]]></payload>
+        <payload_hash>-136480270</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>05e0d53b1b6810104390877ddc4bcba1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 02:07:05</sys_created_on>
+        <sys_id>899d55b31ba810104390877ddc4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171fc55faa70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 02:07:05</sys_updated_on>
+        <type>Data Plan Data Lookup</type>
+        <update_guid>c19d55b3e5a81010149bcdb93325f65b</update_guid>
+        <update_guid_history>c19d55b3e5a81010149bcdb93325f65b:-136480270</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">3b7e11f31ba810104390877ddc4bcb35</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 02:11:05</sys_created_on>
+        <sys_db_object display_value="" name="x_402400_tdd_data_plan_data_lookup">x_402400_tdd_data_plan_data_lookup</sys_db_object>
+        <sys_id>b110d1ec732f490ca66a5f937b82ba10</sys_id>
+        <sys_metadata>bc8d9d731ba810104390877ddc4bcb91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope>
+        <sys_scope_delete display_value="">0148feffbcc6436e80074acefe65c9f1</sys_scope_delete>
+        <sys_update_name>x_402400_tdd_data_plan_data_lookup_bc8d9d731ba810104390877ddc4bcb91</sys_update_name>
+        <sys_update_version display_value="x_402400_tdd_data_plan_data_lookup_bc8d9d731ba810104390877ddc4bcb91">899d55b31ba810104390877ddc4bcb5b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 02:11:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

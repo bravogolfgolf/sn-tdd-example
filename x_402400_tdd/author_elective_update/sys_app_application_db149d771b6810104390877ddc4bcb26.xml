@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>false</active>
+        <category display_value="">Custom Applications</category>
+        <description>Test-driven development</description>
+        <device_type>browser</device_type>
+        <hint>Test-driven development</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 01:25:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db149d771b6810104390877ddc4bcb26</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>tdd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope>
+        <sys_update_name>sys_app_application_db149d771b6810104390877ddc4bcb26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 01:36:02</sys_updated_on>
+        <title>tdd</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</application>
+        <file_path/>
+        <instance_id>c5c48e23db72f34452cec59705961957</instance_id>
+        <instance_name>dev89492</instance_name>
+        <name>sys_app_application_db149d771b6810104390877ddc4bcb26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>false</active><category display_value="">Custom Applications</category><description>Test-driven development</description><device_type>browser</device_type><hint>Test-driven development</hint><name/><order/><roles>user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-10 01:25:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>db149d771b6810104390877ddc4bcb26</sys_id><sys_mod_count>1</sys_mod_count><sys_name>tdd</sys_name><sys_overrides/><sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package><sys_policy/><sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope><sys_update_name>sys_app_application_db149d771b6810104390877ddc4bcb26</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-10 01:36:02</sys_updated_on><title>tdd</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1996074530</payload_hash>
+        <record_name>tdd</record_name>
+        <reverted_from/>
+        <source>05e0d53b1b6810104390877ddc4bcba1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 01:36:03</sys_created_on>
+        <sys_id>6676dd3f1b6810104390877ddc4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171fc398fe20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 01:36:03</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>ee76dd3fc5681010fb1aeffbc1223a4e</update_guid>
+        <update_guid_history>ee76dd3fc5681010fb1aeffbc1223a4e:1996074530,971491fb17681010506bca94caebd05b:-963801503</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="tdd">1ba365f71ba810104390877ddc4bcbe7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-10 02:33:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>04db957d3adb4fdc801e33f177ca3e90</sys_id>
+        <sys_metadata>db149d771b6810104390877ddc4bcb26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tdd</sys_name>
+        <sys_package display_value="tdd" source="x_402400_tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tdd">c9e0d53b1b6810104390877ddc4bcb9e</sys_scope>
+        <sys_scope_delete display_value="">0148feffbcc6436e80074acefe65c9f1</sys_scope_delete>
+        <sys_update_name>sys_app_application_db149d771b6810104390877ddc4bcb26</sys_update_name>
+        <sys_update_version display_value="sys_app_application_db149d771b6810104390877ddc4bcb26">6676dd3f1b6810104390877ddc4bcb4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-10 02:33:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
