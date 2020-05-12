@@ -15,7 +15,7 @@
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
 ## ServiceNow
-    Login in to instance
+    Login into developer instance
   ### Main Tab
     Open Studio
   ### Studio Tab
