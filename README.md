@@ -20,11 +20,11 @@
     Open Studio
   ### Studio Tab
     Click 'Import From Source Control'
-    Network protocol: 'http'
-    URL: [URL from step ?]
+    Network protocol: 'https'
+    URL: [URL from 'Create fork' step above]
     Branch: master
     Username: [GitHub username]
-    Password: [Token from step ?]
+    Password: [Token from 'Create token' step above]
     Click 'Import'
     Click 'Select Application'
     Open 'tdd'
