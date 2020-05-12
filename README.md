@@ -4,7 +4,7 @@
 ### Create fork
     Click 'Fork'
     From your forked repository select 'Clone or Download'
-    Copy Clone with HTTPS URL
+    Copy 'Clone with HTTPS' URL
 ### Create token
     Open User Settings
     Click 'Developer settings'
@@ -14,14 +14,10 @@
     Select 'public_repo'
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
-
-
 ## ServiceNow
     Login in to instance
-  
   ### Main Tab
     Open Studio
-
   ### Studio Tab
     Network protocol: 'http'
     URL: [URL from step ?]
@@ -31,7 +27,6 @@
     Click 'Import'
     Click 'Select Application'
     Open 'tdd'
-
   ### Main Tab
     Switch tto 'Global' applicattion
     Navigate to 'Automated Test Framework (ATF)' -> 'Administration' -> 'Properties'
