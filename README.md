@@ -1,4 +1,7 @@
 # sn-tdd-example
+Fork
+
+
 login in to instance
 Open studio
 
@@ -9,5 +12,8 @@ In Studio
   Select application to open
   
   From menu select 'Source Control'
-  Select Network protocol 'http'
+  Network protocol: 'http'
+  URL: 
+  Branch: master
+  Username and Password
   
