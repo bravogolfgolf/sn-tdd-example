@@ -1,6 +1,6 @@
 # sn-tdd-example
 
-GitHub
+## GitHub
   Open settings
   Click 'Developer Settings'
   Click 'Personal access tokens'
@@ -14,13 +14,13 @@ GitHub
   From your forked repository select 'Clone or Download'
   Copy Clone witth HTTPS URL
 
-ServiceNow
+## ServiceNow
   Login in to instance
   
-  Main Tab
+  ### Main Tab
     Open Studio
 
-  Studio Tab
+  ### Studio Tab
     Network protocol: 'http'
     URL: [URL from step ?]
     Branch: master
@@ -30,7 +30,7 @@ ServiceNow
     Click 'Select Application'
     Open 'tdd'
 
-  Main Tab
+  ### Main Tab
     Switch tto 'Global' applicattion
     Navigate to 'Automated Test Framework (ATF)' -> 'Administration' -> 'Properties'
     Select 'yes' for Enable test/test suite execution
