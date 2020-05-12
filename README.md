@@ -10,10 +10,10 @@
     Select 'public_repo'
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
-  
-    Fork this repository
+### Create fork
+    Click 'Fork'
     From your forked repository select 'Clone or Download'
-    Copy Clone witth HTTPS URL
+    Copy Clone with HTTPS URL
 
 ## ServiceNow
     Login in to instance
