@@ -36,9 +36,11 @@ ServiceNow
     Select 'yes' for Enable test/test suite execution
     Click 'Save'
     
-    Switch tto 'tdd' applicattion
+    Switch to 'tdd' applicattion
     Navigate to 'Automated Test Framework (ATF)' -> 'Tests'
-    Open 'Data Plan' test
+    Open 'Data Plan' Test
+    Open 'Run Server Side Script' to view Test Step
+    Return to 'Data Plan' Test
     Click 'Run Test' (This should complete successfully)    
     
 
