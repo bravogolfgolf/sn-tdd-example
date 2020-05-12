@@ -19,6 +19,7 @@
   ### Main Tab
     Open Studio
   ### Studio Tab
+    Click 'Import From Source Control'
     Network protocol: 'http'
     URL: [URL from step ?]
     Branch: master
