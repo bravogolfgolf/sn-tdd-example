@@ -2,7 +2,7 @@
 
 ## GitHub
 ### Create token
-    Open settings
+    Open User Settings
     Click 'Developer Settings'
     Click 'Personal access tokens'
     Click 'Generate new token'
