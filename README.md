@@ -1,21 +1,21 @@
 # sn-tdd-example
 
 ## GitHub
-  Open settings
-  Click 'Developer Settings'
-  Click 'Personal access tokens'
-  Click 'Generate new token'
-  Add Note to identify this token
-  Select 'public_repo'
-  Click 'Generate token'
-  Make sure to copy your new personal access token now. You won’t be able to see it again!
+    Open settings
+    Click 'Developer Settings'
+    Click 'Personal access tokens'
+    Click 'Generate new token'
+    Add Note to identify this token
+    Select 'public_repo'
+    Click 'Generate token'
+    Make sure to copy your new personal access token now. You won’t be able to see it again!
   
-  Fork this repository
-  From your forked repository select 'Clone or Download'
-  Copy Clone witth HTTPS URL
+    Fork this repository
+    From your forked repository select 'Clone or Download'
+    Copy Clone witth HTTPS URL
 
 ## ServiceNow
-  Login in to instance
+    Login in to instance
   
   ### Main Tab
     Open Studio
