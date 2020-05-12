@@ -15,19 +15,19 @@
     Make sure to copy your new personal access token now. You won’t be able to see it again!
 ## ServiceNow
     Login into developer instance
-  ### Main Tab
+### Main Tab
     Open Studio
-  ### Studio Tab
+### Studio Tab
     Click 'Import From Source Control'
     Network protocol: 'https'
-    URL: https://github.com/bravogolfgolf/sn-tdd-example.git
+    URL: [URL from 'Create fork' step]
     Branch: master
     Username: [GitHub username]
-    Password: [GitHub Token]
+    Password: [Token from 'Create token' step]
     Click 'Import'
     Click 'Select Application'
     Open 'tdd'
-  ### Main Tab
+### Main Tab
     Switch tto 'Global' applicattion
     Navigate to 'Automated Test Framework (ATF)' -> 'Administration' -> 'Properties'
     Select 'yes' for Enable test/test suite execution
@@ -36,8 +36,4 @@
     Switch to 'tdd' applicattion
     Navigate to 'Automated Test Framework (ATF)' -> 'Tests'
     Open 'Data Plan' Test
-    Click 'Run Test' (This should complete successfully)    
-    
-
-    
-  
+    Click 'Run Test' (This should complete successfully)
