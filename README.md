@@ -1,6 +1,10 @@
 # sn-tdd-example
 
 ## GitHub
+### Create fork
+    Click 'Fork'
+    From your forked repository select 'Clone or Download'
+    Copy Clone with HTTPS URL
 ### Create token
     Open User Settings
     Click 'Developer settings'
@@ -10,10 +14,7 @@
     Select 'public_repo'
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
-### Create fork
-    Click 'Fork'
-    From your forked repository select 'Clone or Download'
-    Copy Clone with HTTPS URL
+
 
 ## ServiceNow
     Login in to instance
