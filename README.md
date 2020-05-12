@@ -1,6 +1,7 @@
 # sn-tdd-example
 
 ## GitHub
+### Create token
     Open settings
     Click 'Developer Settings'
     Click 'Personal access tokens'
