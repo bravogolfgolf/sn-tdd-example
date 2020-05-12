@@ -3,7 +3,7 @@
 ## GitHub
 ### Create token
     Open User Settings
-    Click 'Developer Settings'
+    Click 'Developer settings'
     Click 'Personal access tokens'
     Click 'Generate new token'
     Add Note to identify this token
